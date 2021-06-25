@@ -26,7 +26,7 @@ However, to allow for customisations (when necessary), an optional micro-service
 
 The code in this project provides an example of how to write a VISA Security Group service (in this case using TypeScript for Node.js). We have included a database adapter and some simple logic based on the instruments of the experiments associated to the instance. This is similar to logic that is done at the ILL (to enable remote experiments) but serves purely as an example case.
 
-**This application, in it's current state, is not intended to be used in production the VISA platform.**
+**This application, in it's current state, is not intended to be used in production in the VISA platform.**
 
 ### Building the application
 
